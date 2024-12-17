@@ -22,6 +22,18 @@ LisTar es una aplicación de gestión de tareas desarrollada con Flutter que per
 - **SQFlite**: Base de datos local para persistencia de datos
 - **Arquitectura Limpia**: Estructura de código modular y mantenible
 
+## Descargar APK
+### Opción 1: Descargar Directamente
+Puedes descargar el APK directamente desde el directorio de APK en el repositorio:
+[Descargar APK](https://github.com/Blackspyda17/listar/raw/main/apk/listar.apk)
+
+### Opción 2: Generar APK desde el Código Fuente
+Si prefieres generar el APK tú mismo:
+
+```bash
+flutter build apk --release
+```
+
 ## Requisitos Previos
 - SDK de Flutter (última versión estable)
 - Android Studio o VS Code
