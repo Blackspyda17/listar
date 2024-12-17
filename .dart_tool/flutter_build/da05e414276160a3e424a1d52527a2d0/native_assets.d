@@ -1,1 +1,0 @@
- /Users/gilberthpaezortiz/dev/listar-remote/.dart_tool/flutter_build/da05e414276160a3e424a1d52527a2d0/native_assets.yaml: 
