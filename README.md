@@ -11,10 +11,10 @@ LisTar es una aplicación de gestión de tareas desarrollada con Flutter que per
 - Almacenamiento de datos persistente
 
 ## Snapshots
-<img width="300" width=“500” src="snapshots/snapshot_1.gif"></img>
-<img width="300" width=“500” src="snapshots/snapshot_2.gif"></img>
-<img width="300" width=“500” src="snapshots/snapshot_3.gif"></img>
-<img width="300" width=“500” src="snapshots/snapshot_4.gif"></img>
+<img width="200" height=“400” src="snapshots/snapshot_1.gif"></img>
+<img width="200" height=“400” src="snapshots/snapshot_2.gif"></img>
+<img width="200" height=“400” src="snapshots/snapshot_3.gif"></img>
+<img width="200" height=“500” src="snapshots/snapshot_4.gif"></img>
 
 ## Tecnologías Utilizadas
 - **Flutter**: Framework de desarrollo móvil multiplataforma
